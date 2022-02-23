@@ -1,4 +1,4 @@
-How to Install
+#How to Install
 git clone https://github.com/OmarSobhi369/WaseeTech.git
 Install the composer dependencies
 
