@@ -29,7 +29,7 @@
                                                 {{$child->name}}
                                                 </a>
 
-                                              </h4>
+                                            </h4>
                                             @php
                                                 $grandChild = TCG\Voyager\Models\Category::where('parent_id', $child->id)->get();
                                             @endphp
