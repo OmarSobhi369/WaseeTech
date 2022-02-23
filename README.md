@@ -1,9 +1,11 @@
 How to Install
 
 git clone https://github.com/OmarSobhi369/WaseeTech.git
+
 Install the composer dependencies
 
 composer install
+
 Save .env.example as .env and put your database credentials
 
 Set application key
